@@ -3,6 +3,8 @@ import java.util.Stack;
 public class stack {
 
     // A stack is LIFO data structure Last in First out
+    // .push to add
+    // .pop to remove and return value
 
     static Stack<String> stack = new Stack<>();
     public static void main(String[] args) {
