@@ -7,10 +7,10 @@ public class queue {
     static Queue<String> queue = new LinkedList<>();
 
     public static void main(String[] args) {
-        queue.offer("Neal");
-        queue.offer("Devann");
-        queue.offer("Aeirol");
-        queue.offer("Anton");
+        queue.offer("Hana");
+        queue.offer("Fione");
+        queue.offer("Madame");
+        queue.offer("Nicky");
 
         System.out.println(queue);
     }
